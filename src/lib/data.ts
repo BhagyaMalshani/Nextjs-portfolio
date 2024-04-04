@@ -47,15 +47,15 @@ export const projectsData: ProjectInfo[] = [
   {
     title: "Chatting app UI",
     description:
-      "Relive the nostalgia! Control the snake, collect food, and grow without hitting walls or yourself. Simple, timeless fun! ",
-    tags: ["figma", "CSS", "photoshop"],
+      "Using figma and adobe photoshop designed a creative chatting App UI. ",
+    tags: ["figma", "photoshop"],
     imageUrl: "/UI.png",
     link: "https://www.behance.net/gallery/194618249/Chatting-App-main-UIS",
   },
   {
     title: "Food Deliver App Home Screen",
     description:
-      "Developed a Food deliver App home screen using react native. the language used type script ",
+      "Developed a Food deliver App home screen using react native. the language used type script. ",
     tags: ["React-native", "Type Script", "CSS", "HTML"],
     imageUrl: "/pixel.png",
     link: "https://github.com/FHSS-USJ/assignment-02-BhagyaMalshani/commits/main/",
@@ -66,7 +66,7 @@ export const projectsData: ProjectInfo[] = [
       "Crafting personal website on Next.js. Captivating design and dynamic content showcase skills and journey.",
     tags: ["React", "Next.js", "Tailwind", "Typescript", "Framer Motions"],
     imageUrl: "/macbook.png",
-    link: "https://github.com/Dimuthnilanjana/dimuthnilanjana.com",
+    link: "https://github.com/BhagyaMalshani/Nextjs-portfolio",
   },
 ];
 
@@ -74,14 +74,14 @@ export const skillsData = [
   "HTML",
   "CSS",
   "TypeScript",
-  "JavaScript",
+  "Postman",
   "MySQL",
   "React",
   "Next.js",
-  "Node.js",
+  "Power BI",
   "Tailwind",
   "Figma",
   "Photoshop",
-  "MongoDB",
+  "Minitab",
   
 ];

@@ -12,8 +12,8 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dimuth Nilanjana | Personal Portfolio",
-  description: "Dimuth Nilanjana personal portfolio",
+  title: "Bhagya Malshani | Personal Portfolio",
+  description: "Bhagya Malshani personal portfolio",
 };
 
 export default function RootLayout({

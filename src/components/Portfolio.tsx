@@ -47,7 +47,7 @@ export default function Portfolio() {
         removeWrapper
         alt="Card background"
         className="z-0 w-full h-full object-cover"
-        src="/po3.png"
+        src="/phoneScreenUI.png"
       />
     </Card>
     <Card isFooterBlurred className="w-full h-[300px] col-span-12 sm:col-span-5">
@@ -58,7 +58,7 @@ export default function Portfolio() {
         removeWrapper
         alt="Card example background"
         className="z-0 w-full h-full scale-125 -translate-y-6 object-cover"
-        src="/po2.png"
+        src="/pic3.png"
       />
       <CardFooter className="absolute bg-white/30 bottom-0 border-t-1 border-zinc-100/50 z-10 justify-between">
        

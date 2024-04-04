@@ -24,16 +24,15 @@ export default function About() {
     >
       <SectionHeading>{languageStrings.about.title}</SectionHeading>
       <p className="mb-3  lg:text-xl  sm:text-lg  text-justify  italic  pb-4">
-      Welcome to my personal website! I specialize in the dynamic realms of ICT, project management, and UI/UX design.
-       My journey in the digital landscape commenced in 2023
+      Welcome to my personal website! I am an undergraduate student at University of Sri Jayewardenepura . 
+      My journey into the dynamic realms of ICT, project management, and UI/UX design began in 2022.
         
 
         <br></br><br></br>
         In 2023, I embarked on my front-end development career,
         gaining expertise in HTML, CSS, Typescript, React, Next.js,
-        MongoDB, MySQL, and more. As a dedicated freelancer, I am passionate
-        about delivering top-notch solutions to meet and exceed the
-        expectations of my clients.
+        MongoDB, MySQL, and more. However, my true passion lies in UI/UX design. With my specialization in UI/UX design, 
+        I bring a keen eye for detail, creativity, and user-centric approach to every project I undertake.
       </p>
 
       <p className="text-xl">
@@ -73,7 +72,7 @@ export default function About() {
             </div>
             <div className=" pb-5">
               <p className=" font-semibold  ">
-              🎓NVQ level 04 in ICT Technicial
+              🎓NVQ level 04 in ICT Technician
               </p>
               <p className=" text-sm italic  font-normal">
               📚National Vocational Authority - 2021

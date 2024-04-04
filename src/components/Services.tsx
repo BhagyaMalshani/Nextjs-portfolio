@@ -94,11 +94,12 @@ export default function Services() {
                     <CardHeader className=" flex-auto">
                         <FaBookmark
                             size="35px" />
-                        <h1 className=" font-bold px-3">Develop a blog site</h1>
+                        <h1 className=" font-bold px-3">Front end developing</h1>
                     </CardHeader>
                     <Divider />
                     <CardBody className="  text-justify   ">
-                        <p className=" ">Transform your social media presence with dynamic designs. Elevate engagement through eye-catching visuals, tailored graphics, and strategic layouts. Redefine your digital impact with creative expertise. </p>
+                        <p className=" "> Using the latest web technologies such as HTML, CSS, and TypeScript framework  React, 
+                         I craft responsive and visually stunning websites and web applications.. </p>
                     </CardBody>
 
                 </Card>
